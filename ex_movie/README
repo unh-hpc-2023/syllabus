@@ -1,0 +1,18 @@
+
+This somewhat contrived example simulates (somewhat) the steps that
+may be necessary to turn simulation results into a movie.
+
+There are three steps:
+
+- "python lim1.py" runs the "simulation". It creates datafiles
+  "data_<i>.npy", where i goes from 0 to 119 as time proceeds
+
+- "python plot.py <input.npy> <output.png>" plots the datafile
+  <input.npy>.  The resulting plot is an image, saved as <output.png>
+
+- "ffmpeg -y -i data_%d.png -r 5 lim1.mp4" reads those image files and
+  turns them into the movie lim1.mp4
+
+The script "make_movie.sh" performs all the steps automatically, though
+it's a bit dumb about it in that it always starts from scratch.
+
