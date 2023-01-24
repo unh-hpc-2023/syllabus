@@ -4,7 +4,7 @@
 * **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2023/syllabus/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
 * **Office Hours:** TBD
-* **Slack URL** <https://unhhpc2023.slack.com/> (Sign up [here]())
+* **Slack URL** <https://unhhpc2023.slack.com/> (Sign up [here](https://join.slack.com/t/newworkspace-o8k5214/shared_invite/zt-1nwjejb0k-AlPLvzJwx03GKE9785ADWQ))
 * **Need help?**
   * Ask on [Slack](https://unhhpc2023.slack.com/).
   * Look through and create [issues](https://github.com/unh-hpc-2023/syllabus/issues).
