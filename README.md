@@ -3,7 +3,7 @@
 * **Course:** IAM751/851
 * **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2023/syllabus/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
-* **Office Hours:** TBD
+* **Office Hours:** Thu after class
 * **Slack URL** <https://unhhpc2023.slack.com/> (Sign up [here](https://join.slack.com/t/newworkspace-o8k5214/shared_invite/zt-1nwjejb0k-AlPLvzJwx03GKE9785ADWQ))
 * **Need help?**
   * Ask on [Slack](https://unhhpc2023.slack.com/).
@@ -164,25 +164,25 @@ that student is encouraged to make that request as early in the semester as poss
    options at UNH (including anonymous report options) please
    visit [(student reporting options)](https://www.unh.edu/affirmativeaction/reporting-students).
 
-## Health and Safety
+## Credit Hour Policy:
+ This syllabus reflects the federal definition of a credit hour, which entails a minimum 3 hours of engaged time per week per credit over a 15-week semester. Examples of engaged time include class time, assignments, examinations, laboratories, participation in course-related experiences (attending a talk or performance, speakers and events, fieldwork, etc.), conferences, and office hours. Student work reflects intended learning outcomes and is verified through evidence of student achievement. For more information, please see: https://www.neche.org/wpcontent/uploads/2019/01/Affirmation-of-Compliance.pdf.
 
-Faculty, TAs, and course instructors are critical partners in promoting our #unhtogether COVID
-response culture. We all have a responsibility during this COVID-19 pandemic to protect our
-own health and the health of friends and fellow community members. Violations of the COVID
-protocols by even a single individual can cause significant disruptions or discontinuation of inperson academic activities. Any student creating such disruptions undermines the opportunity for
-others to learn and engage with the UNH community, and as such, is in serious violation of the
-UNH Student Rights, Rules, & Responsibilities.
+## Integrity
 
-All students are required to wear masks in class and in any other indoor spaces where people
-will be close to one another for more than a few minutes, unless a medical exception is made
-through an accommodation process. It is your responsibility to obtain a mask before coming
-to class. For information on proper use of masks, acceptable mask types, and other PPE and
-social distancing guidelines visit (<https://www.unh.edu/coronavirus>). Students wishing to
-request a medical accommodation should contact the Student Accessibility Services (link).
-Failure to comply with PPE or any other UNH COVID protocols is a violation of the Student
-Rights, Rules, and Responsibilities. If you refuse to comply, you will be asked to leave class
-immediately and you may also be reported to the Office of the Dean of Students and your
-associate dean.
+   Working together on homework is encouraged. Obtaining solutions from other sources after attempting on your own is also allowed. All sources should be acknowledged. Full credit is given even when you get help.
+
+The use of Automated Writing Tools, including chatGPT and similar artificial intelligence (AI) tools, is prohibited in this course, unless properly attributed.
+
+## Financial Literacy Resources
+
+ All students benefit from understanding their mindset about money, how to build and use a personal budget, as well as understanding interest rates, loans, insurance, investing, and more. UNH has wonderful free resources for students in Library Resource Guides, and every student (and faculty!) can access CA$H COURSE by creating a free account. Find more information on the Financial Wellness site of Health & Wellness.
+
+ ## COVID Protocols
+
+ Unfortunately, COVID is still a part of our community. It is your responsibility to pay attention to messaging from the University (RAVE and Canvas and Email) in the event that any COVID protocols change. You can always access current COVID protocols and requirements through the Health and Wellness Website: https://www.unh.edu/health/health-alert-covid-19
+We all value the health and safety of our Wildcat Community and respect everyone’s unique health and risk tolerance. You are welcome to wear a mask in this classroom if you choose. It is your responsibility to obtain a mask before coming to class. If you required to be in isolation or quarantine, the Dean of Students will send a letter to all of your instructors. See extended absence policies below for temporary academic resources to support your continued learning in this course if you must miss significant class time.
+A valid Wildcat Pass is required to be on campus and in this classroom. Your Wildcat Pass will be invalid if you are supposed to be in isolation or quarantine, or if you have not completed the arrival and baseline testing requirements.
+
 
 <!-- ## Modality
 
